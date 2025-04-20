@@ -45,7 +45,8 @@ python cpu_monitor.py
 
 ## ⚙️ Question 3: Configuration File Parser & API
 
-**Files:** 
+**Files:**
+
 - `config_parser.py` (Flask app)
 - `config.ini` (sample configuration)
 
@@ -87,23 +88,3 @@ python backup.py /path/to/source /path/to/destination
 ```
 
 ---
-
-## 🧪 Notes
-
-- Scripts include error handling and clear output.
-- Code is optimized and well-commented.
-
----
-
-## 📁 Repository Structure
-
-```
-.
-├── password_checker.py
-├── cpu_monitor.py
-├── config_parser.py
-├── config.ini
-├── output.json
-├── backup.py
-└── README.md
-```
